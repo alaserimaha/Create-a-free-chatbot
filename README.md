@@ -37,7 +37,7 @@ After the selection, we will start with the first stage:
 We're going to create a template which is the quickest way to setup a FAQ bot with minimal content.
 The template contains all the scenarios that may be presented to the user, and all the questions and answers that will appear to the user, as well as navigation for them.
 
-Let's say our chatbot is named (الروبوت مها) The robot will greet first and then present three possible questions
+Let's say our chatbot is named (`الروبوت مها`) The robot will greet first and then present three possible questions
 When the user chooses one of these questions, the answer to the question will appear .
 <img width="1255" alt="‏لقطة الشاشة ١٤٤٤-٠١-١٥ في ٤ ١٠ ٤٩ م" src="https://user-images.githubusercontent.com/60073836/184495665-2d351d58-11f8-45c0-bc72-56d6b7a76f9d.png">
 
