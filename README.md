@@ -21,3 +21,4 @@ There are several platforms through which we can create a chatbot.
 We will create our own chatbot using the [landbot](https://landbot.io/) platform
 
 The platform offers a free trial, and it also offers many types of chatbots, and it's great for beginners and professionals as well.
+![61e6d6150cf6523112f6f0a3_Landbot-Logo](https://user-images.githubusercontent.com/60073836/184495237-afed121e-990e-4932-b03f-cfea24bd129d.svg)
