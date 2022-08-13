@@ -58,7 +58,7 @@ The fourth and most important stage is :
 ## adding a chatbot to our web page.
 All we will do:
 1. Choose how do you want your landbot to display.
-2. Copy and paste [the script code]() anywhere in the <body> section of your website
+2. Copy and paste [the script code](https://github.com/alaserimaha/Create-a-free-chatbot/blob/main/EMBED%20INTO%20WEBSITE.js) anywhere in the <body> section of your website
   <img width="647" alt="‏لقطة الشاشة ١٤٤٤-٠١-١٥ في ٤ ٢١ ١١ م" src="https://user-images.githubusercontent.com/60073836/184496014-b6ba2198-c6c7-4eeb-8110-8a2fb7927543.png">
 
   Now our chat bot is ready!
